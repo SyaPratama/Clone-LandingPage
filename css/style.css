@@ -113,6 +113,8 @@ input[type="radio"]{
     border-radius: 50%;
 }
 
+#box_1:checked
+
 #box_1:checked ~ .modal-box #modal-1{
     background: #fff;
 }
